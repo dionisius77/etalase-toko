@@ -66,3 +66,4 @@ node_modules/
 .env
 public/firebase.json
 .firebaserc
+firebase.json
